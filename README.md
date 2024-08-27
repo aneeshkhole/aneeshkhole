@@ -5,7 +5,7 @@ Welcome to the GitHub portfolio of a **Data Detective**! I'm a data science enth
 ## 🕵️ About Me
 
 - **Name:** Aneesh Khole
-- **Role:**
+- **Roles:**
   - Graduate Researcher at the Animal Inspired Movement and Robotics Lab, University of Colorado Boulder
   - Student Assistant at the Data Science department, University of Colorado Boulder
             
