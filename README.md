@@ -40,15 +40,13 @@ Here are some "cases" I've solved as a Data Detective:
 
 I'm always looking for new data mysteries to solve. Currently, I'm investigating:
 
-- **Behavioral Patterns in Robotics:** Understanding how animals move and behave to create more efficient robots.
-- **Deep Learning for Image Recognition:** Using convolutional neural networks to analyze images and videos for wildlife conservation.
+- **Movement Patterns in Spiders:** Understanding how spiders move and behave to create more efficient robots.
 
 ## 📫 Get in Touch
 
 If you're interested in collaborating on a project or just want to chat about data, feel free to reach out!
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/yourhandle)
+- **Email:** kholeaneesh@gmail.com
+- **LinkedIn:** [Aneesh Khole](https://www.linkedin.com/in/aneesh-khole/)
 
 Let's solve some data mysteries together! 🕵️‍♂️
